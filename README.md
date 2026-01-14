@@ -2,3 +2,5 @@ My first ever game :)  IF you want to add anything, and please feel free, i'm on
 things, thanks :D
 
 The controls to move are keyleft, keyright, and keydown to fire.
+
+This is an unofficial fan-made clone for educational purposes. 'Breakout' is a trademark of Atari Interactive, Inc.
